@@ -29,17 +29,17 @@ weight = 5
 [[education.courses]]
   course = "Master of Advanced Studies in Mathematical Statistics (Part III of the Mathematical Tripos)"
   institution = "University of Cambridge"
-  year = 2017/2018
+  year = 2018
   
 [[education.courses]]
   course = "Master 1 in Mathematics"
   institution = "Sorbonne University (formerly University Pierre and Marie Curie)"
-  year = 2016/2017
+  year = 2017
 
 [[education.courses]]
   course = "BSc in Mathematics"
   institution = "Université Libre de Bruxelles"
-  year = 2013/2016
+  year = 2016
  
 +++
 
