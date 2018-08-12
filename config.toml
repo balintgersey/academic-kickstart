@@ -230,11 +230,17 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:bg368@alumni.cam.ac.uk"
+    
+  [[params.social]]
+   icon = "linkedin"
+   icon_pack = "fa"
+   link = "https://www.linkedin.com/in/balintgersey/"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/bagersey"
+    
 
   [[params.social]]
     icon = "researchgate"
