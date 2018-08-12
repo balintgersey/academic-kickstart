@@ -15,7 +15,7 @@ list_format = 3
 [header]
 image = ""
 caption = ""
-+++
++++ selected = true
   
 
 <h3 class="master thesis" itemprop="name">
