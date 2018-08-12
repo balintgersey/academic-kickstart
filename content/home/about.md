@@ -10,31 +10,44 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Quantitative Finance",
+    "Algorithmic Trading", 
+    "Artificial Intelligence", 
+    "Statistical Learning", 
+    "Machine learning", 
+    "Deep Learning",
+    "Time Series Analysis", 
+    "High-dimensional Statistics",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Machine Learning applied to Mathematical Finance"
+  institution = "ETH Zürich"
+  year = 2018-present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master of Advanced Studies in Mathematical Statistics (Part III of the Mathematical Tripos)"
+  institution = "University of Cambridge"
+  year = 2017-2018
+  
+[[education.courses]]
+  course = "Master 1 in Mathematics"
+  institution = "Sorbonne University (formerly University Pierre and Marie Curie)"
+  year = 2016-2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Mathematics"
+  institution = "Université Libre de Bruxelles"
+  year = 2013-2016
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<p>Before starting his PhD at ETH Zurich, he graduated with a first-class honours in mathematical statistics from the <a href="https://www.cam.ac.uk/"> University of Cambridge </a>. He also studied one year at the <a href="https://www.sorbonne-universite.fr/" target = "_blank"> Sorbonne University </a> with a Paris Graduate School of Mathematics scholarship from the <a href="https://www.sciencesmaths-paris.fr/" target="_blank"> Fondation Science Mathématique de Paris </a> (FSMP). The FSMP fondation is an excellence network in mathematics and fundamental computer science in Paris, founded by CNRS, ENS, Univ. Pierre et Marie Curie, Univ. Paris-Diderot, and the 4 Mathematics Chairs of Collège de France. Partners are Inria, universities of Paris-Dauphine, Paris-Descartes, Paris 1 Panthéon-Sorbonne, Paris-Nord, and the IdEx PSL (teams of Ecole des Mines, Observatoire de Paris and EHESS). FSMP federates 14 laboratories in mathematical sciences, 23 Inria teams, and gathers more than 1800 researchers among which 900 permanents, involving 5 Fields medalists, 20 members of Academy of Science, and many recipients of national and international prizes.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<p>He obtained his Bachelor degree from the <a href="http://ulb.ac.be/" target="_blank"> Univerité Libre de Bruxelles </a>, graduating with the best results from his promotion. </p>
+
+<p>His main interests include quantitative finance, algorithmic trading, machine learning, data mining, big data, time series analysis and applied statistics. </p>
+
