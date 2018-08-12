@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://balintgersey.netlify.com/"
 
 # Title of your site
-title = "Academic"
+title = "Bálint Gersey"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,20 +57,20 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Bálint Gersey"
+  role = "PhD student in Mathematical Finance and Machine Learning at ETH Zürich"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "ETH Zürich", url = "https://www.ethz.ch/en.html" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "bg368@alumni.cam.ac.uk"
+  address = "ETH Zürich, Department of Mathematics, Rämistrasse 101, 8092 Zürich"
+  office_hours = "email for appointment"
+  phone = "+44 7802 703765"
+  skype = "bagersey@ulb.ac.be"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -122,7 +122,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -229,29 +229,29 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:bg368@alumni.cam.ac.uk"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/bagersey"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "researchgate"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.researchgate.net/profile/Balint_Gersey"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/balintgersey"
 
   # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  # To enable, copy your resume/CV to `static/files/CV_BalintGersey.pdf` and uncomment the lines below.
+  [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/CV_BalintGersey.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -292,11 +292,11 @@ enableGitInfo = false
   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+# To enable, copy your resume/CV to `static/files/CV_BalintGersey.pdf` and uncomment the lines below.
+ [[menu.main]]
+    name = "CV"
+    url = "files/CV_BalintGersey.pdf"
+    weight = 7
 
 # Taxonomies.
 [taxonomies]
