@@ -24,31 +24,31 @@ weight = 5
 [[education.courses]]
   course = "PhD in Machine Learning applied to Mathematical Finance"
   institution = "ETH Zürich"
-  year = 2018-present
+  year = 2018
 
 [[education.courses]]
   course = "Master of Advanced Studies in Mathematical Statistics (Part III of the Mathematical Tripos)"
   institution = "University of Cambridge"
-  year = 2017-2018
+  year = 2017/2018
   
 [[education.courses]]
   course = "Master 1 in Mathematics"
   institution = "Sorbonne University (formerly University Pierre and Marie Curie)"
-  year = 2016-2017
+  year = 2016/2017
 
 [[education.courses]]
   course = "BSc in Mathematics"
   institution = "Université Libre de Bruxelles"
-  year = 2013-2016
+  year = 2013/2016
  
 +++
 
 # Biography
 
-Balint Gersey is a PhD student in the RiskLab Switzerland at ETH Zurich, working under the supervision of Professor Patrick Cheridito.
+<p>Balint Gersey is a PhD student in the <a href="http://www.risklab.ch/" target="_blank">RiskLab Switzerland</a> at <a href="https://www.ethz.ch/en.html" target="_blank">ETH Zurich</a>, working under the supervision of <a href="https://people.math.ethz.ch/~patrickc/" target = "_blank"> Professor Patrick Cheridito </a>.
 
-Before starting his PhD at ETH Zurich, he graduated with a first-class honours in mathematical statistics from the University of Cambridge . He also studied one year at the Sorbonne University with a Paris Graduate School of Mathematics scholarship from the Fondation Science Mathématique de Paris (FSMP). The FSMP fondation is an excellence network in mathematics and fundamental computer science in Paris, founded by CNRS, ENS, Univ. Pierre et Marie Curie, Univ. Paris-Diderot, and the 4 Mathematics Chairs of Collège de France. Partners are Inria, universities of Paris-Dauphine, Paris-Descartes, Paris 1 Panthéon-Sorbonne, Paris-Nord, and the IdEx PSL (teams of Ecole des Mines, Observatoire de Paris and EHESS). FSMP federates 14 laboratories in mathematical sciences, 23 Inria teams, and gathers more than 1800 researchers among which 900 permanents, involving 5 Fields medalists, 20 members of Academy of Science, and many recipients of national and international prizes.
+<p>Before starting his PhD at ETH Zurich, he graduated with a first-class honours in mathematical statistics from the <a href="https://www.cam.ac.uk/"> University of Cambridge </a>. He also studied one year at the <a href="https://www.sorbonne-universite.fr/" target = "_blank"> Sorbonne University </a> with a Paris Graduate School of Mathematics scholarship from the <a href="https://www.sciencesmaths-paris.fr/" target="_blank"> Fondation Science Mathématique de Paris </a> (FSMP). The FSMP fondation is an excellence network in mathematics and fundamental computer science in Paris, founded by CNRS, ENS, Univ. Pierre et Marie Curie, Univ. Paris-Diderot, and the 4 Mathematics Chairs of Collège de France. Partners are Inria, universities of Paris-Dauphine, Paris-Descartes, Paris 1 Panthéon-Sorbonne, Paris-Nord, and the IdEx PSL (teams of Ecole des Mines, Observatoire de Paris and EHESS). FSMP federates 14 laboratories in mathematical sciences, 23 Inria teams, and gathers more than 1800 researchers among which 900 permanents, involving 5 Fields medalists, 20 members of Academy of Science, and many recipients of national and international prizes.</p>
 
-He obtained his Bachelor degree from the Univerité Libre de Bruxelles, graduating with the best results from his promotion.
+<p>He obtained his Bachelor degree from the <a href="http://ulb.ac.be/" target="_blank"> Univerité Libre de Bruxelles </a>, graduating with the best results from his promotion. </p>
 
-His main interests include quantitative finance, algorithmic trading, machine learning, data mining, big data, time series analysis and applied statistics.
+<p>His main interests include quantitative finance, algorithmic trading, machine learning, data mining, big data, time series analysis and applied statistics. </p>
