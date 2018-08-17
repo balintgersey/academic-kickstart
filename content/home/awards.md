@@ -22,13 +22,12 @@ control new situations. During my academic career, I had the privilege to receiv
 <li> ??? Prize: received a prize and sholarship for achieving a first class degree from <a href = "https://www.fitz.cam.ac.uk/> Fitzwilliam College </a>, <a href="https://www.cam.ac.uk/"> University of Cambridge </a> </li>
 <li> EPFL Excellence scholarship: I was accepted at EPFL’s master’s in financial engineering with an Excellence Fellowship, <a href ="https://www.epfl.ch/"> Ecole Polytechnique Fédérale de Lausanne </a> </li>
 
-<li> Paris Graduate School of Mathematics: I am one of the ten laureates worldwide who was honoured to receive a <a href = "https://www.sciencesmaths-paris.fr/en/pgsm-249.htm"> Paris Graduate School of Mathematics scholarship </a> from the <a href = "https://www.sciencesmaths-paris.fr/en/"> Fondation Science Mathématique de Paris </a>. This award supported my Master 1 studies at the Pierre and Marie Curie (Sorbonne) University. </li>
+<li> Paris Graduate School of Mathematics: I am one of the ten laureates worldwide who was honoured to receive a <a href = "https://www.sciencesmaths-paris.fr/en/pgsm-249.htm"> Paris Graduate School of Mathematics scholarship </a> from the <a href = "https://www.sciencesmaths-paris.fr/en/"> Fondation Science Mathématique de Paris </a>. The Fondation Sciences Mathématiques de Paris is an excellence network in mathematics and fundamental computer science in Paris founded by leading french academic institutions including  the national center for science <a href="http://www.cnrs.fr/> CNRS </a>, the <a href = "http://www.ens.fr/> Ecole Normale Supérieur </a> (Ulm) and the <a href = "https://www.sorbonne-universite.fr/> Sorbonne University </a>. This award supported my Master 1 studies at the Pierre and Marie Curie (Sorbonne) University. </li>
 
-<li> Jacques Hadamard: The Jacques Hadamard M1 degree program has a twofold aim: to offer a very wide range of top-level courses in all areas of mathematics, and enable students to discover mathematical research from within by exposing them to live, current problems.
-It is intended for double-degree students: second-year students on the "Magistère" (vocational Master's) in mathematics at Orsay, second-year mathematics students at ENS Cachan, as well as certain students on further mathematics programs at the École Polytechnique.
-However this selective program is also open to motivated student (french or not) with a very good level in mathematics. </li>
+<li> Jacques Hadamard scholarship: The Jacques Hadamard M1 degree program has a twofold aim: to offer a very wide range of top-level courses in all areas of mathematics, and enable students to discover mathematical research from within by exposing them to live, current problems.
+The Fondation Jacques Hadamard includes the <a href ="https://www.polytechnique.edu/"> Ecole Polytechnique </a>, the <a href = "http://ens-paris-saclay.fr/"> Ecole Normale Supérieur (Cachan) </a> and the <a href ="http://www.u-psud.fr/fr/index.html> University Paris Sud </a>.</li>
 
-<li> Komal Hungarian Mathematics and Physics Competition </li>
+<li> <a href ="https://www.komal.hu/home.h.shtml> Komal </a> Hungarian Mathematics and Physics Competition </li>
 
 <li> International Hungarian Mathematics Competition </li>
 
