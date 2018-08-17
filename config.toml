@@ -282,6 +282,11 @@ enableGitInfo = false
   url = "#talks"
   weight = 3
   
+ [[menu.main]]
+ name = "Awards"  
+ url = "#awards"
+ weight = 4
+  
 
 [[menu.main]]
   name = "Teaching"
