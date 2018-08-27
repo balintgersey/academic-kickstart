@@ -19,7 +19,7 @@ control new situations. During my academic career, I had the privilege to receiv
 <ul>
 <li> PhD (DPhil) scholarship from the <a href = "https://www.maths.ox.ac.uk/groups/mathematical-finance"> Mathematical and Computational Finance Group </a> at <a href = "http://www.ox.ac.uk/"> Oxford University </a>. The scholarship was complemented by an additional support from <a href = "https://www.instadeep.com/"> InstaDeep </a>. InstaDeep offers a host of AI solutions, ranging from optimized pattern-recognition, GPU-accelerated insights, to self-learning decision making systems.</li>
   
-<li> Thatcher Prize and 1912 Honorary Scholarship: I was elected a Senior Scholar of <a href = "https://www.fitz.cam.ac.uk/> Fitzwilliam College  </a>, <a href="https://www.cam.ac.uk/"> University of Cambridge </a>,  for achieving a first class degree in Mathematics. </li>
+<li> Thatcher Prize and 1912 Honorary Scholarship: I was elected a Senior Scholar of <a href = "https://www.fitz.cam.ac.uk/> Fitzwilliam College </a>, <a href="https://www.cam.ac.uk/"> University of Cambridge </a>,  for achieving a first class degree in Mathematics. </li>
   
 <li> EPFL Excellence scholarship: I was accepted at EPFL’s master’s in financial engineering with an Excellence Fellowship, <a href ="https://www.epfl.ch/"> Ecole Polytechnique Fédérale de Lausanne </a> </li>
 
