@@ -1,3 +1,23 @@
++++
+title = "Generative Adversarial Networks and their application in Finance"
+date = 2018-05-04T00:00:00
+math = false
+highlight = false
+
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 3
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
++++
+
+
 My master thesis focuses on one of the dominant approaches to generative modelling, generative adversarial
 networks (GANs). After a brief description of fundamental notions of deep learning such as feed-forward,
 convolutional and recurrent neural networks, I review stochastic gradient descent and prove the convergence
