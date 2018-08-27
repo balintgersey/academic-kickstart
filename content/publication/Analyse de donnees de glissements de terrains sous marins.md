@@ -19,7 +19,7 @@ caption = ""
 
 <p> During my studies at Sorbonne University, I worked on the ALARM research project. A key innovation challenge of the ALARM project was the
 application of existing mathematical methods both in statistics and numerical simulation to the analysis of
-natural risks. The research included data analysis with R. The abstract of the project can be found belo in French. The final report (in French) is available at
+natural risks. The research included data analysis with R. The abstract of the project can be found belo in French. The final report (in French) is available
 <a href="https://www.researchgate.net/publication/326957102_Analyse_de_donnees_de_glissements_de_terrain_sous-marins"> here </a>. </p>
 
 <p>
