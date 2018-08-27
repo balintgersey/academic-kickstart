@@ -16,6 +16,13 @@ list_format = 1
 image = ""
 caption = ""
 
+</div>
+<div class="pub-authors" itemprop="author">
+     Author: Balint Gersey
+ </div>
+
++++
+
 <div class="pub-abstract" itemprop="text">
   
   My master thesis focuses on one of the dominant approaches to generative modelling, generative adversarial
@@ -37,10 +44,6 @@ caption = ""
   My master thesis is available 
   <a href ="https://www.researchgate.net/publication/326676131_Generative_Adversarial_Networks"> here <a>
  
-</div>
-<div class="pub-authors" itemprop="author">
-     Author: Balint Gersey
- </div>
 
 <div class="pub-links">
   <a class="btn btn-primary btn-outline btn-xs" href="https://www.researchgate.net/publication/326676131_Generative_Adversarial_Networks" target="_blank" rel="noopener">
@@ -51,4 +54,3 @@ caption = ""
   Code
   </a>
  </div>
-+++
