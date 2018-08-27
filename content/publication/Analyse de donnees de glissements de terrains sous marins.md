@@ -1,3 +1,22 @@
++++
+title = "Analyse de données de glissements de terrain sous-marins"
+date = 2017-05-04T00:00:00
+math = false
+highlight = true
+
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 1
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
++++
+
 <p> During my studies at Sorbonne University, I worked on the ALARM research project. A key innovation challenge of the ALARM project was the
 application of existing mathematical methods both in statistics and numerical simulation to the analysis of
 natural risks. The research included data analysis with R. The abstract of the project can be found belo in French. The final report (in French) is available 
