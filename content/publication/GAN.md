@@ -15,7 +15,6 @@ list_format = 1
 [header]
 image = ""
 caption = ""
-+++
 
 <div class="pub-abstract" itemprop="text">
   
@@ -52,3 +51,4 @@ caption = ""
   Code
   </a>
  </div>
++++
