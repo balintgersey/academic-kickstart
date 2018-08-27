@@ -1,7 +1,7 @@
 +++
 title = "Analyse de données de glissements de terrain sous-marins"
 date = 2017-05-04T00:00:00
-math = true
+math = false
 highlight = true
 
 # List format.
