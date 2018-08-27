@@ -49,6 +49,6 @@ weight = 5
 
 <p>Before starting my PhD at ETH Zurich, I graduated with a first-class honours in Mathematical Statistics from the <a href="https://www.cam.ac.uk/"> University of Cambridge </a>. I also studied one year at <a href="https://www.sorbonne-universite.fr/" target = "_blank"> Sorbonne University </a> with a Paris Graduate School of Mathematics scholarship from the <a href="https://www.sciencesmaths-paris.fr/" target="_blank"> Fondation Science Mathématique de Paris </a> (FSMP). The FSMP fondation is an excellence network in mathematics and fundamental computer science in Paris, founded by CNRS, ENS, Univ. Pierre et Marie Curie, Univ. Paris-Diderot, and the 4 Mathematics Chairs of Collège de France, involving 5 Fields medalists, 20 members of Academy of Science, and many recipients of national and international prizes.</p>
 
-<p>I obtained his Bachelor degree from the <a href="http://ulb.ac.be/" target="_blank"> Univerité Libre de Bruxelles </a>, graduating with the best results of my promotion. </p>
+<p>I obtained my Bachelor degree from the <a href="http://ulb.ac.be/" target="_blank"> Univerité Libre de Bruxelles </a>, graduating with the best results of my promotion. </p>
 
 <p>My main interests include quantitative finance, algorithmic trading, machine learning, data mining, big data, time series analysis and applied statistics. </p>
