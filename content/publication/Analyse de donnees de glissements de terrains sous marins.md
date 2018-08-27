@@ -32,3 +32,19 @@ et une loi de Pareto pour les valeurs extrêmes, c'est-à-dire celles qui dépas
 D'un point de vue bivarié, les facteurs qui semblent avoir une influence sur les glissements sont la présence d'une base érosive et la sismicité. 
 La chronologie et la pente du terrain ne semblent pas avoir d'influence, mais le manque de données de pente impose la prudence. </p>
 
+</div>
+<div class="pub-authors" itemprop="author">
+     Author: Balint Gersey, Nicolas Prost
+ </div>
+
+
+<div class="pub-links">
+  <a class="btn btn-primary btn-outline btn-xs" href="https://www.researchgate.net/publication/326957102_Analyse_de_donnees_de_glissements_de_terrain_sous-marins" target="_blank" rel="noopener">
+  Preprint
+  </a>
+
+  <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/balintgersey/analysis-of-geological-data" target="_blank" rel="noopener">
+  Code
+  </a>
+ </div>
+
