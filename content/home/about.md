@@ -40,11 +40,6 @@ weight = 5
   course = "BSc in Mathematics"
   institution = "Université Libre de Bruxelles"
   year = 2016
- 
-<blockquote cite="https://www.linkedin.com/in/balintgersey/">
-    <p>Balint is one of the very best undergraduate students I could interact with in the last ten years. In my view, he shows all the  qualities needed to produce research of the highest level. </p>
-</blockquote>
-<cite>– Davy Paindaveine, Professor of Statistics at Université Libre de Bruxelles</cite>
 
 +++
 
@@ -57,3 +52,8 @@ weight = 5
 <p>I obtained my Bachelor degree from the <a href="http://ulb.ac.be/" target="_blank"> Univerité Libre de Bruxelles </a>, graduating with the best results of my promotion. </p>
 
 <p>My main interests include quantitative finance, algorithmic trading, machine learning, data mining, big data, time series analysis and applied statistics. </p>
+
+<blockquote cite="https://www.linkedin.com/in/balintgersey/">
+    <p>Balint is one of the very best undergraduate students I could interact with in the last ten years. In my view, he shows all the  qualities needed to produce research of the highest level. </p>
+</blockquote>
+<cite>– Davy Paindaveine, Professor of Statistics at Université Libre de Bruxelles</cite>
