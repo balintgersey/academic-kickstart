@@ -41,6 +41,11 @@ weight = 5
   institution = "Université Libre de Bruxelles"
   year = 2016
  
+<blockquote cite="https://www.linkedin.com/in/balintgersey/">
+    <p>Balint is one of the very best undergraduate students I could interact with in the last ten years. In my view, he shows all the  qualities needed to produce research of the highest level. </p>
+</blockquote>
+<cite>– Davy Paindaveine, Professor of Statistics at Université Libre de Bruxelles</cite>
+
 +++
 
 # Biography
