@@ -17,7 +17,7 @@ I was teaching instructor for the following courses:
 <ul>
 <li> MFF: I am teaching assistant for the Mathematical Foundations for Finance course in the academic year 2018-2019 at ETH Zurich.
 
- Information on all courses and Q&A sessions of Group 3 of D-MATH can be found on the group homepage - <a href = "https://people.math.ethz.ch/~gruppe3/about"> here <\a>. 
+ Information on all courses and Q&A sessions of Group 3 of D-MATH can be found on the group homepage <a href = "https://people.math.ethz.ch/~gruppe3/about"> here <\a>. 
  
 
 The link to the homepage of MFF course can be found <a href = "https://metaphor.ethz.ch/x/2018/hs/401-3913-01L"> here <\a>.
