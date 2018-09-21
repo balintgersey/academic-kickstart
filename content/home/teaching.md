@@ -16,7 +16,7 @@ weight = 60
 I was teaching instructor for the following courses: 
 <ul>
 <li> MFF: I am giving the example classes of the Mathematical Foundations for Finance course in the academic year 2018-2019, ETH Zurich.
-      For more information about the course click <a> here <\a>. 
+      For more information about the course click <a      href="https://www.researchgate.net/publication/326676131_Generative_Adversarial_Networks"> here <a>. 
 </li>
 <li> MATHGUID: Tutored a multicultural group of around 20 first-year students delivering weekly practical sessions in Mathematics, ULB</li>
 
