@@ -15,9 +15,16 @@ weight = 60
 +++
 I was teaching instructor for the following courses: 
 <ul>
-<li> MFF: I am giving the example classes of the Mathematical Foundations for Finance course in the academic year 2018-2019, ETH Zurich.
-      For more information about the course click <a      href="https://www.researchgate.net/publication/326676131_Generative_Adversarial_Networks"> here <a>. 
-</li>
+<li> MFF: I am teaching assistant for the Mathematical Foundations for Finance course in the academic year 2018-2019 at ETH Zurich.
+ 
+ Information on all courses and Q&A sessions of Group 3 of D-MATH can be found on the group homepage - <a href = "https://people.math.ethz.ch/~gruppe3/about">. The link to the homepage of MFF can be found there as well - <a href = "https://metaphor.ethz.ch/x/2018/hs/401-3913-01L">.
+
+
+Lecture notes for the course Probability Theory that might also be of use to some of you can be obtained in an electronic form on the homepage of the course - https://metaphor.ethz.ch/x/2018/hs/401-3601-00L/ with the password you received by mail from the course coordinator. 
+
+Additionally I encourag you to look at the lectures notes of the Probability and Measure course offered at the University of Cambridge. The notes can be downloaded from Professor James Norris's website: 
+
+
 <li> MATHGUID: Tutored a multicultural group of around 20 first-year students delivering weekly practical sessions in Mathematics, ULB</li>
 
 </ul>
