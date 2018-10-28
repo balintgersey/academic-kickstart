@@ -22,6 +22,7 @@ I was teaching instructor for the following courses:
 
 The link to the homepage of MFF course can be found <a href = "https://metaphor.ethz.ch/x/2018/hs/401-3913-01L" target = "_blank"> here </a>.
 
+An alternative solution to exercise 1 part a) from problem sheet 1 can be found <a href = "https://www.balintgersey.com/files/sheet1_ex1.pdf" target = "_blank"> here </a>.
 
 Lecture notes for the course Probability Theory that might also be of use to some of you can be obtained in an electronic form on the homepage of the <a href="https://metaphor.ethz.ch/x/2018/hs/401-3601-00L/" target = "blank"> course </a> with the password you received by mail from the course coordinator. 
 
