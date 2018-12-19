@@ -17,9 +17,9 @@ I was teaching instructor for the following courses:
 <ul>
 <li> MFF: I am teaching assistant for the Mathematical Foundations for Finance course in the academic year 2018-2019 at ETH Zurich.
   
-<p>Please note that there is <b> no </b> exercise class on Friday 21st of December 2018.</p>
+<p>Please note that there is <b> no </b> exercise class on Friday 21st of December 2018. If you have questions concerning the course, feel free to write me an e-mail. </p>
 
-<p> I wish everyone a Merry Christmas and a Happy New Year! Have a nice holiday full of MFF revision :) <p>
+<p> I wish everyone a <b> Merry Christmas </b>  and a <b> Happy New Year </b>! Have a nice holiday full of MFF revision :) <p>
 
 
 
